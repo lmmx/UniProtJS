@@ -1,7 +1,7 @@
 # UniProtJS
 =========
 
-Accessing Data in online Excel files without any downloading or local software, and providing a list of protein functions from UniProt
+Accessing Data in online Excel files without any downloading of files or requirement for local software, and providing a list of protein functions from UniProt.
 
 ##Easy code for biochemists to use in the browser console
 
